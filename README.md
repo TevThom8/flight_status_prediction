@@ -61,6 +61,7 @@ Creating features representing interactions between different variables (e.g., a
 2)Decision Trees<br>
 3)Random Forests<br>
 4)Gradient Boosting<br>
+
 Each model's performance was 
 assessed using metrics such as accuracy, precision, recall, and F1-score. <br>Cross-validation was performed to ensure robust results. The Random Forest model emerged as the best-performing model, offering a good balance between precision and recall.<br>
 
